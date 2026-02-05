@@ -453,8 +453,8 @@ class SilktideCookieBanner {
             } />
                         <span class="switch__pill" aria-hidden="true"></span>
                         <span class="switch__dot" aria-hidden="true"></span>
-                        <span class="switch__off" aria-hidden="true">Off</span>
-                        <span class="switch__on" aria-hidden="true">On</span>
+                        <span class="switch__off" aria-hidden="true">Non</span>
+                        <span class="switch__on" aria-hidden="true">Oui</span>
                     </label>
                 </div>
             </fieldset>
